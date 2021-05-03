@@ -5,4 +5,4 @@ Basic an example of responsive Netherlands flag
 - HTML5
 - CSS3
 
-![a](https://user-images.githubusercontent.com/22565318/115539144-4a9c6880-a2a5-11eb-8b75-86170405ac2b.mov)
+![](https://user-images.githubusercontent.com/22565318/116867193-5711b100-ac15-11eb-93b8-7e2b34381ad6.gif)
